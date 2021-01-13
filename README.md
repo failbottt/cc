@@ -4,6 +4,7 @@ cross compiler
 requires that you download
 
 * gcc
+* binutils
 * mpfr
 * gmp
 * mpc
